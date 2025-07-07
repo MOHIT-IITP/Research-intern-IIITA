@@ -1,0 +1,1001 @@
+Tumor Type,Location,Size (cm),Grade,Patient Age,Gender
+Oligodendroglioma,Occipital Lobe,9.23,I,48,Female
+Ependymoma,Occipital Lobe,0.87,II,47,Male
+Meningioma,Occipital Lobe,2.33,II,12,Female
+Ependymoma,Occipital Lobe,1.45,III,38,Female
+Ependymoma,Brainstem,6.45,I,35,Female
+Astrocytoma,Brainstem,2.82,III,46,Male
+Meningioma,Temporal Lobe,1.29,I,71,Female
+Meningioma,Frontal Lobe,7.83,II,16,Female
+Meningioma,Occipital Lobe,0.72,II,38,Male
+Ependymoma,Temporal Lobe,2.07,II,77,Male
+Oligodendroglioma,Frontal Lobe,1.7,I,66,Female
+Meningioma,Cerebellum,1.43,II,87,Female
+Ependymoma,Parietal Lobe,8.88,I,57,Male
+Astrocytoma,Brainstem,9.6,III,50,Male
+Oligodendroglioma,Cerebellum,6.5,I,47,Male
+Astrocytoma,Frontal Lobe,6.45,III,8,Female
+Oligodendroglioma,Cerebellum,3.06,I,74,Male
+Ependymoma,Parietal Lobe,5.21,III,4,Male
+Glioblastoma,Frontal Lobe,9.64,II,42,Male
+Oligodendroglioma,Cerebellum,9.37,III,40,Female
+Astrocytoma,Brainstem,10.0,II,34,Male
+Ependymoma,Brainstem,5.74,II,9,Male
+Oligodendroglioma,Temporal Lobe,2.13,III,47,Male
+Glioblastoma,Cerebellum,0.97,I,31,Male
+Glioblastoma,Occipital Lobe,3.82,I,15,Male
+Meningioma,Cerebellum,3.84,IV,67,Female
+Meningioma,Frontal Lobe,8.99,I,12,Female
+Astrocytoma,Frontal Lobe,5.74,IV,4,Female
+Oligodendroglioma,Cerebellum,6.87,I,72,Male
+Oligodendroglioma,Parietal Lobe,1.86,I,33,Female
+Meningioma,Brainstem,8.21,II,56,Female
+Oligodendroglioma,Frontal Lobe,8.03,IV,16,Female
+Oligodendroglioma,Brainstem,5.05,I,23,Male
+Glioblastoma,Frontal Lobe,5.82,IV,70,Male
+Meningioma,Temporal Lobe,3.98,II,15,Female
+Ependymoma,Occipital Lobe,3.13,II,58,Female
+Meningioma,Frontal Lobe,8.19,IV,86,Male
+Ependymoma,Brainstem,0.64,II,23,Male
+Glioblastoma,Temporal Lobe,6.1,III,69,Female
+Astrocytoma,Frontal Lobe,6.76,III,33,Male
+Oligodendroglioma,Parietal Lobe,0.94,II,35,Female
+Glioblastoma,Occipital Lobe,9.39,III,47,Male
+Oligodendroglioma,Frontal Lobe,7.25,I,74,Female
+Astrocytoma,Temporal Lobe,7.49,IV,1,Female
+Astrocytoma,Parietal Lobe,4.03,I,30,Male
+Glioblastoma,Cerebellum,6.31,IV,66,Female
+Astrocytoma,Temporal Lobe,9.79,II,44,Female
+Ependymoma,Temporal Lobe,8.83,I,32,Female
+Astrocytoma,Parietal Lobe,5.23,II,12,Male
+Oligodendroglioma,Temporal Lobe,5.45,II,73,Male
+Oligodendroglioma,Parietal Lobe,1.26,IV,42,Male
+Oligodendroglioma,Frontal Lobe,0.58,IV,12,Female
+Oligodendroglioma,Parietal Lobe,7.68,IV,16,Male
+Ependymoma,Parietal Lobe,9.5,I,85,Female
+Meningioma,Occipital Lobe,2.85,III,9,Female
+Glioblastoma,Parietal Lobe,7.77,IV,18,Male
+Oligodendroglioma,Parietal Lobe,9.7,IV,59,Male
+Astrocytoma,Cerebellum,1.08,I,32,Female
+Oligodendroglioma,Frontal Lobe,4.96,IV,79,Female
+Astrocytoma,Occipital Lobe,6.51,I,19,Male
+Astrocytoma,Cerebellum,5.8,II,53,Male
+Oligodendroglioma,Brainstem,8.21,IV,2,Male
+Ependymoma,Frontal Lobe,2.43,IV,40,Female
+Astrocytoma,Frontal Lobe,0.59,II,40,Female
+Astrocytoma,Brainstem,1.61,II,73,Female
+Oligodendroglioma,Parietal Lobe,5.84,II,46,Female
+Astrocytoma,Cerebellum,4.17,IV,79,Female
+Astrocytoma,Temporal Lobe,6.81,III,21,Male
+Oligodendroglioma,Occipital Lobe,7.37,III,36,Male
+Oligodendroglioma,Temporal Lobe,5.27,III,63,Female
+Glioblastoma,Brainstem,2.11,IV,43,Female
+Ependymoma,Frontal Lobe,8.19,II,16,Male
+Ependymoma,Frontal Lobe,2.8,IV,71,Male
+Astrocytoma,Occipital Lobe,6.28,II,13,Male
+Ependymoma,Frontal Lobe,8.4,IV,57,Male
+Astrocytoma,Frontal Lobe,1.96,IV,50,Female
+Glioblastoma,Occipital Lobe,5.27,II,28,Male
+Oligodendroglioma,Cerebellum,3.82,III,31,Female
+Oligodendroglioma,Cerebellum,1.36,II,39,Male
+Oligodendroglioma,Occipital Lobe,5.21,I,34,Male
+Ependymoma,Brainstem,9.92,I,69,Male
+Glioblastoma,Frontal Lobe,1.34,II,13,Female
+Ependymoma,Frontal Lobe,5.8,IV,23,Female
+Ependymoma,Brainstem,3.88,I,48,Male
+Glioblastoma,Cerebellum,4.98,I,85,Female
+Glioblastoma,Parietal Lobe,3.82,IV,17,Female
+Glioblastoma,Parietal Lobe,3.0,IV,46,Male
+Glioblastoma,Parietal Lobe,5.08,III,75,Male
+Oligodendroglioma,Cerebellum,9.39,IV,58,Female
+Meningioma,Cerebellum,0.7,II,53,Female
+Meningioma,Brainstem,2.12,II,67,Female
+Glioblastoma,Frontal Lobe,1.79,III,24,Male
+Meningioma,Brainstem,8.13,I,36,Male
+Meningioma,Brainstem,5.88,I,17,Female
+Glioblastoma,Cerebellum,5.6,IV,58,Male
+Meningioma,Parietal Lobe,2.87,II,4,Male
+Ependymoma,Temporal Lobe,9.4,I,17,Female
+Astrocytoma,Frontal Lobe,1.43,III,48,Female
+Astrocytoma,Cerebellum,0.84,III,34,Male
+Glioblastoma,Parietal Lobe,3.82,II,11,Male
+Oligodendroglioma,Temporal Lobe,2.04,III,80,Female
+Glioblastoma,Temporal Lobe,4.56,III,65,Male
+Oligodendroglioma,Cerebellum,4.31,II,6,Male
+Astrocytoma,Occipital Lobe,1.14,IV,59,Female
+Glioblastoma,Frontal Lobe,5.42,IV,67,Female
+Ependymoma,Temporal Lobe,8.94,III,11,Male
+Meningioma,Cerebellum,4.95,IV,19,Male
+Oligodendroglioma,Cerebellum,2.33,IV,41,Male
+Meningioma,Parietal Lobe,4.13,III,55,Female
+Meningioma,Occipital Lobe,1.1,IV,59,Male
+Glioblastoma,Frontal Lobe,1.09,III,42,Male
+Meningioma,Brainstem,6.87,I,50,Female
+Ependymoma,Parietal Lobe,9.97,II,52,Female
+Meningioma,Temporal Lobe,2.76,II,4,Male
+Glioblastoma,Temporal Lobe,1.41,IV,48,Female
+Ependymoma,Parietal Lobe,3.2,IV,43,Female
+Astrocytoma,Cerebellum,3.55,IV,73,Male
+Meningioma,Temporal Lobe,7.72,II,24,Female
+Glioblastoma,Occipital Lobe,3.84,I,63,Female
+Astrocytoma,Frontal Lobe,5.27,I,5,Male
+Astrocytoma,Occipital Lobe,8.1,II,75,Female
+Oligodendroglioma,Temporal Lobe,6.06,I,63,Male
+Ependymoma,Brainstem,2.3,II,57,Male
+Meningioma,Frontal Lobe,7.49,I,89,Female
+Glioblastoma,Frontal Lobe,4.31,III,26,Female
+Oligodendroglioma,Parietal Lobe,5.82,III,14,Female
+Ependymoma,Parietal Lobe,4.29,II,72,Male
+Oligodendroglioma,Brainstem,6.19,I,20,Female
+Ependymoma,Cerebellum,2.24,IV,13,Male
+Ependymoma,Frontal Lobe,1.63,I,83,Female
+Meningioma,Brainstem,7.94,III,18,Female
+Ependymoma,Parietal Lobe,1.78,III,36,Female
+Oligodendroglioma,Parietal Lobe,5.94,I,48,Male
+Ependymoma,Frontal Lobe,1.45,I,88,Female
+Meningioma,Occipital Lobe,7.05,IV,35,Female
+Meningioma,Temporal Lobe,8.48,IV,48,Male
+Oligodendroglioma,Parietal Lobe,0.64,I,48,Male
+Astrocytoma,Cerebellum,5.37,I,48,Female
+Astrocytoma,Cerebellum,7.9,I,75,Female
+Ependymoma,Parietal Lobe,6.52,I,33,Female
+Glioblastoma,Occipital Lobe,1.47,II,63,Male
+Ependymoma,Occipital Lobe,5.27,I,30,Male
+Oligodendroglioma,Brainstem,4.02,IV,53,Male
+Oligodendroglioma,Cerebellum,4.36,III,85,Male
+Oligodendroglioma,Brainstem,5.79,II,9,Female
+Oligodendroglioma,Cerebellum,2.08,I,25,Male
+Oligodendroglioma,Temporal Lobe,0.88,III,52,Male
+Meningioma,Temporal Lobe,8.79,II,59,Male
+Astrocytoma,Frontal Lobe,1.53,III,23,Female
+Oligodendroglioma,Brainstem,2.85,I,24,Female
+Glioblastoma,Parietal Lobe,1.86,I,7,Male
+Glioblastoma,Brainstem,6.1,IV,36,Male
+Glioblastoma,Parietal Lobe,8.56,I,25,Female
+Glioblastoma,Occipital Lobe,0.87,I,13,Female
+Meningioma,Brainstem,6.42,II,19,Female
+Glioblastoma,Occipital Lobe,3.52,IV,13,Female
+Oligodendroglioma,Temporal Lobe,8.78,II,26,Female
+Ependymoma,Temporal Lobe,4.8,III,73,Female
+Glioblastoma,Frontal Lobe,9.22,I,70,Female
+Meningioma,Brainstem,4.31,III,39,Female
+Meningioma,Occipital Lobe,5.05,II,23,Male
+Glioblastoma,Parietal Lobe,1.74,I,64,Male
+Ependymoma,Temporal Lobe,8.21,I,23,Male
+Glioblastoma,Temporal Lobe,9.04,II,7,Male
+Meningioma,Parietal Lobe,4.18,II,65,Male
+Astrocytoma,Occipital Lobe,3.63,II,63,Male
+Oligodendroglioma,Occipital Lobe,8.61,II,33,Female
+Meningioma,Brainstem,4.03,II,50,Female
+Glioblastoma,Brainstem,7.36,I,7,Male
+Oligodendroglioma,Cerebellum,5.15,II,17,Male
+Glioblastoma,Cerebellum,1.45,I,87,Female
+Glioblastoma,Frontal Lobe,5.48,I,68,Female
+Astrocytoma,Temporal Lobe,9.65,II,24,Female
+Oligodendroglioma,Brainstem,6.2,II,81,Male
+Oligodendroglioma,Occipital Lobe,2.26,IV,39,Female
+Astrocytoma,Parietal Lobe,8.43,I,27,Male
+Meningioma,Occipital Lobe,0.58,II,4,Male
+Glioblastoma,Temporal Lobe,9.74,II,82,Female
+Ependymoma,Cerebellum,1.75,II,12,Female
+Glioblastoma,Occipital Lobe,4.31,IV,72,Male
+Glioblastoma,Frontal Lobe,8.25,IV,62,Female
+Meningioma,Temporal Lobe,9.45,III,45,Female
+Glioblastoma,Cerebellum,1.89,I,58,Male
+Astrocytoma,Parietal Lobe,1.09,III,80,Female
+Astrocytoma,Cerebellum,6.19,II,39,Male
+Oligodendroglioma,Frontal Lobe,3.71,IV,63,Male
+Ependymoma,Temporal Lobe,1.93,IV,69,Female
+Glioblastoma,Parietal Lobe,4.23,III,18,Male
+Glioblastoma,Frontal Lobe,7.03,IV,67,Male
+Meningioma,Cerebellum,3.27,II,58,Female
+Astrocytoma,Frontal Lobe,3.06,IV,15,Female
+Ependymoma,Temporal Lobe,9.75,III,39,Female
+Oligodendroglioma,Brainstem,2.85,II,41,Male
+Astrocytoma,Frontal Lobe,3.68,III,2,Male
+Oligodendroglioma,Frontal Lobe,4.31,IV,17,Female
+Meningioma,Cerebellum,4.32,III,18,Male
+Meningioma,Cerebellum,6.57,III,29,Female
+Glioblastoma,Parietal Lobe,7.64,I,46,Female
+Ependymoma,Cerebellum,7.55,IV,85,Male
+Oligodendroglioma,Occipital Lobe,1.06,IV,19,Female
+Astrocytoma,Temporal Lobe,4.62,III,67,Male
+Meningioma,Temporal Lobe,5.17,I,40,Male
+Glioblastoma,Brainstem,0.9,IV,4,Female
+Glioblastoma,Brainstem,6.95,II,70,Male
+Oligodendroglioma,Temporal Lobe,8.7,III,8,Female
+Meningioma,Brainstem,8.13,IV,41,Male
+Ependymoma,Parietal Lobe,5.24,II,4,Male
+Meningioma,Cerebellum,0.84,IV,87,Male
+Oligodendroglioma,Temporal Lobe,0.63,II,26,Female
+Oligodendroglioma,Brainstem,3.63,III,84,Male
+Meningioma,Temporal Lobe,8.81,IV,6,Female
+Oligodendroglioma,Occipital Lobe,3.73,IV,53,Male
+Meningioma,Frontal Lobe,4.08,I,82,Male
+Astrocytoma,Cerebellum,0.94,III,85,Female
+Meningioma,Temporal Lobe,6.71,II,18,Female
+Meningioma,Frontal Lobe,2.32,IV,7,Female
+Oligodendroglioma,Brainstem,7.14,IV,3,Female
+Oligodendroglioma,Frontal Lobe,0.68,II,49,Female
+Glioblastoma,Cerebellum,8.21,III,87,Male
+Glioblastoma,Temporal Lobe,9.65,I,24,Male
+Astrocytoma,Occipital Lobe,2.67,I,45,Female
+Glioblastoma,Brainstem,2.46,IV,34,Male
+Meningioma,Temporal Lobe,6.82,II,34,Male
+Oligodendroglioma,Cerebellum,4.94,IV,31,Male
+Glioblastoma,Brainstem,9.96,II,43,Female
+Glioblastoma,Parietal Lobe,0.84,I,57,Male
+Astrocytoma,Frontal Lobe,5.59,III,49,Male
+Astrocytoma,Cerebellum,8.3,II,87,Male
+Meningioma,Parietal Lobe,9.22,I,65,Female
+Oligodendroglioma,Temporal Lobe,2.63,IV,14,Male
+Astrocytoma,Occipital Lobe,2.28,II,10,Male
+Glioblastoma,Brainstem,8.36,III,74,Female
+Oligodendroglioma,Frontal Lobe,0.55,IV,65,Female
+Oligodendroglioma,Brainstem,6.8,IV,84,Male
+Glioblastoma,Temporal Lobe,2.88,I,88,Male
+Astrocytoma,Brainstem,6.35,II,6,Female
+Glioblastoma,Frontal Lobe,9.78,IV,82,Female
+Oligodendroglioma,Temporal Lobe,7.77,III,84,Female
+Ependymoma,Brainstem,4.24,II,68,Female
+Ependymoma,Occipital Lobe,4.68,III,22,Female
+Meningioma,Cerebellum,7.68,IV,79,Female
+Glioblastoma,Temporal Lobe,1.82,III,49,Female
+Glioblastoma,Cerebellum,6.82,I,11,Male
+Meningioma,Temporal Lobe,4.16,III,79,Female
+Meningioma,Occipital Lobe,4.68,II,17,Female
+Meningioma,Cerebellum,3.96,III,10,Male
+Oligodendroglioma,Parietal Lobe,4.06,III,23,Female
+Glioblastoma,Frontal Lobe,8.22,I,26,Female
+Oligodendroglioma,Parietal Lobe,5.72,III,3,Male
+Meningioma,Brainstem,4.28,III,52,Female
+Glioblastoma,Occipital Lobe,6.25,IV,84,Male
+Oligodendroglioma,Parietal Lobe,6.92,IV,54,Male
+Oligodendroglioma,Temporal Lobe,0.89,II,72,Male
+Meningioma,Brainstem,9.55,IV,64,Male
+Glioblastoma,Brainstem,8.78,IV,49,Female
+Meningioma,Parietal Lobe,4.78,IV,41,Male
+Glioblastoma,Parietal Lobe,8.79,IV,19,Male
+Ependymoma,Occipital Lobe,7.94,I,17,Female
+Astrocytoma,Frontal Lobe,9.04,IV,33,Male
+Astrocytoma,Parietal Lobe,3.7,I,47,Male
+Astrocytoma,Parietal Lobe,1.06,I,72,Male
+Meningioma,Cerebellum,6.71,IV,54,Male
+Ependymoma,Temporal Lobe,8.23,III,23,Female
+Glioblastoma,Cerebellum,4.24,I,15,Male
+Oligodendroglioma,Cerebellum,3.52,III,27,Female
+Glioblastoma,Brainstem,5.79,III,57,Female
+Oligodendroglioma,Frontal Lobe,7.52,IV,79,Male
+Glioblastoma,Temporal Lobe,3.58,II,40,Male
+Ependymoma,Occipital Lobe,4.46,IV,70,Male
+Oligodendroglioma,Occipital Lobe,3.73,II,15,Male
+Meningioma,Parietal Lobe,0.63,II,33,Female
+Glioblastoma,Parietal Lobe,4.09,IV,64,Female
+Glioblastoma,Occipital Lobe,8.19,IV,88,Female
+Oligodendroglioma,Parietal Lobe,9.04,II,10,Male
+Meningioma,Frontal Lobe,4.68,IV,34,Female
+Meningioma,Cerebellum,6.71,II,45,Male
+Ependymoma,Parietal Lobe,6.61,III,59,Male
+Meningioma,Brainstem,5.48,IV,55,Male
+Meningioma,Parietal Lobe,5.57,III,26,Male
+Meningioma,Temporal Lobe,9.91,I,47,Male
+Astrocytoma,Frontal Lobe,3.97,III,54,Female
+Ependymoma,Temporal Lobe,9.65,III,12,Female
+Glioblastoma,Temporal Lobe,9.98,II,53,Male
+Oligodendroglioma,Brainstem,9.67,III,5,Female
+Glioblastoma,Frontal Lobe,4.02,IV,70,Male
+Ependymoma,Frontal Lobe,3.97,II,54,Male
+Oligodendroglioma,Frontal Lobe,1.09,I,29,Male
+Ependymoma,Frontal Lobe,6.9,IV,27,Female
+Meningioma,Frontal Lobe,9.05,I,43,Male
+Oligodendroglioma,Brainstem,5.79,III,69,Male
+Meningioma,Parietal Lobe,7.66,IV,32,Female
+Glioblastoma,Temporal Lobe,8.99,IV,6,Female
+Glioblastoma,Frontal Lobe,5.59,I,13,Female
+Oligodendroglioma,Parietal Lobe,2.43,IV,71,Male
+Oligodendroglioma,Parietal Lobe,7.71,IV,18,Male
+Ependymoma,Temporal Lobe,1.2,IV,42,Female
+Ependymoma,Brainstem,4.52,III,76,Male
+Meningioma,Occipital Lobe,3.47,I,42,Female
+Oligodendroglioma,Occipital Lobe,5.37,IV,9,Female
+Glioblastoma,Parietal Lobe,1.82,II,55,Male
+Ependymoma,Cerebellum,2.61,II,33,Male
+Ependymoma,Cerebellum,1.16,II,35,Female
+Glioblastoma,Temporal Lobe,6.52,II,21,Female
+Ependymoma,Occipital Lobe,8.35,III,48,Female
+Meningioma,Parietal Lobe,7.14,IV,24,Female
+Oligodendroglioma,Brainstem,9.14,I,3,Male
+Glioblastoma,Occipital Lobe,0.51,IV,35,Female
+Oligodendroglioma,Parietal Lobe,3.13,III,62,Female
+Ependymoma,Parietal Lobe,9.72,II,44,Female
+Ependymoma,Frontal Lobe,5.91,III,62,Male
+Glioblastoma,Brainstem,2.62,IV,32,Male
+Meningioma,Frontal Lobe,8.74,I,47,Female
+Astrocytoma,Temporal Lobe,9.97,III,63,Male
+Glioblastoma,Frontal Lobe,5.43,I,82,Male
+Astrocytoma,Frontal Lobe,1.75,III,84,Male
+Astrocytoma,Occipital Lobe,6.92,I,65,Female
+Meningioma,Cerebellum,6.76,I,33,Female
+Astrocytoma,Parietal Lobe,9.08,II,49,Male
+Astrocytoma,Brainstem,9.55,I,41,Female
+Meningioma,Frontal Lobe,7.73,II,65,Female
+Astrocytoma,Brainstem,8.32,IV,89,Male
+Astrocytoma,Cerebellum,2.54,IV,67,Male
+Astrocytoma,Cerebellum,1.84,II,76,Female
+Glioblastoma,Frontal Lobe,1.25,II,6,Male
+Glioblastoma,Temporal Lobe,2.88,III,16,Female
+Glioblastoma,Frontal Lobe,0.51,III,57,Female
+Meningioma,Occipital Lobe,6.95,III,6,Male
+Ependymoma,Parietal Lobe,6.05,IV,67,Female
+Astrocytoma,Temporal Lobe,0.83,III,84,Female
+Astrocytoma,Frontal Lobe,4.36,I,58,Male
+Meningioma,Brainstem,6.85,I,75,Male
+Astrocytoma,Temporal Lobe,7.83,III,49,Male
+Glioblastoma,Temporal Lobe,5.5,I,43,Female
+Ependymoma,Frontal Lobe,7.07,IV,21,Male
+Oligodendroglioma,Temporal Lobe,0.77,I,20,Male
+Astrocytoma,Brainstem,0.94,IV,31,Male
+Glioblastoma,Cerebellum,4.6,II,9,Male
+Oligodendroglioma,Temporal Lobe,0.88,II,85,Female
+Ependymoma,Cerebellum,7.55,II,75,Female
+Oligodendroglioma,Brainstem,2.05,II,5,Male
+Glioblastoma,Frontal Lobe,6.5,I,2,Female
+Oligodendroglioma,Parietal Lobe,5.6,III,7,Male
+Meningioma,Temporal Lobe,9.46,I,40,Male
+Oligodendroglioma,Parietal Lobe,7.69,IV,10,Female
+Astrocytoma,Brainstem,1.92,I,76,Female
+Astrocytoma,Temporal Lobe,4.02,I,8,Male
+Meningioma,Cerebellum,3.74,IV,85,Male
+Glioblastoma,Occipital Lobe,4.81,II,59,Female
+Astrocytoma,Parietal Lobe,6.68,II,6,Male
+Ependymoma,Temporal Lobe,4.43,II,75,Female
+Astrocytoma,Parietal Lobe,3.09,III,61,Male
+Astrocytoma,Temporal Lobe,6.31,IV,15,Male
+Glioblastoma,Frontal Lobe,8.43,IV,15,Female
+Oligodendroglioma,Cerebellum,1.35,I,39,Female
+Astrocytoma,Parietal Lobe,5.26,III,69,Female
+Meningioma,Occipital Lobe,5.58,II,64,Female
+Oligodendroglioma,Occipital Lobe,4.52,III,24,Female
+Ependymoma,Brainstem,3.74,IV,5,Female
+Glioblastoma,Temporal Lobe,7.84,IV,24,Female
+Ependymoma,Parietal Lobe,2.03,I,51,Male
+Oligodendroglioma,Brainstem,1.1,I,19,Male
+Oligodendroglioma,Parietal Lobe,8.58,IV,78,Male
+Oligodendroglioma,Temporal Lobe,7.55,II,62,Female
+Ependymoma,Occipital Lobe,1.46,II,15,Female
+Oligodendroglioma,Frontal Lobe,2.61,III,73,Female
+Ependymoma,Occipital Lobe,9.65,IV,88,Male
+Oligodendroglioma,Brainstem,9.37,IV,58,Female
+Meningioma,Cerebellum,1.31,II,76,Female
+Oligodendroglioma,Frontal Lobe,5.89,II,66,Male
+Ependymoma,Brainstem,8.73,IV,10,Female
+Astrocytoma,Temporal Lobe,4.5,I,16,Male
+Oligodendroglioma,Frontal Lobe,5.56,IV,34,Male
+Astrocytoma,Brainstem,2.13,IV,30,Female
+Meningioma,Temporal Lobe,9.48,II,27,Female
+Glioblastoma,Occipital Lobe,6.25,II,52,Female
+Meningioma,Cerebellum,2.78,I,71,Male
+Oligodendroglioma,Temporal Lobe,7.36,I,12,Male
+Astrocytoma,Parietal Lobe,0.82,III,60,Male
+Astrocytoma,Temporal Lobe,8.22,IV,57,Female
+Ependymoma,Temporal Lobe,2.07,II,41,Female
+Astrocytoma,Cerebellum,6.06,I,22,Female
+Ependymoma,Parietal Lobe,8.26,III,48,Female
+Glioblastoma,Brainstem,4.69,III,16,Male
+Oligodendroglioma,Brainstem,8.3,II,29,Male
+Ependymoma,Temporal Lobe,3.11,II,54,Male
+Glioblastoma,Parietal Lobe,2.59,III,66,Male
+Astrocytoma,Parietal Lobe,9.6,I,34,Female
+Astrocytoma,Cerebellum,4.57,III,62,Female
+Glioblastoma,Occipital Lobe,6.92,IV,34,Female
+Astrocytoma,Brainstem,5.86,IV,15,Male
+Glioblastoma,Cerebellum,3.78,II,54,Male
+Ependymoma,Frontal Lobe,4.68,I,86,Female
+Ependymoma,Brainstem,5.54,I,45,Female
+Glioblastoma,Cerebellum,7.67,IV,15,Male
+Ependymoma,Brainstem,7.94,III,16,Female
+Ependymoma,Occipital Lobe,9.52,II,13,Male
+Ependymoma,Frontal Lobe,0.61,III,87,Male
+Meningioma,Occipital Lobe,2.76,III,70,Male
+Oligodendroglioma,Frontal Lobe,8.84,III,27,Female
+Astrocytoma,Temporal Lobe,5.26,I,39,Female
+Meningioma,Cerebellum,8.29,IV,26,Male
+Ependymoma,Frontal Lobe,7.07,I,57,Female
+Glioblastoma,Occipital Lobe,6.19,IV,58,Male
+Ependymoma,Brainstem,4.24,II,83,Male
+Oligodendroglioma,Frontal Lobe,1.31,II,70,Male
+Ependymoma,Cerebellum,5.5,III,7,Male
+Glioblastoma,Frontal Lobe,6.51,IV,66,Female
+Oligodendroglioma,Parietal Lobe,2.62,IV,84,Male
+Ependymoma,Brainstem,1.75,IV,78,Male
+Oligodendroglioma,Cerebellum,1.91,III,55,Female
+Astrocytoma,Cerebellum,1.64,III,24,Male
+Astrocytoma,Temporal Lobe,3.96,II,23,Male
+Ependymoma,Occipital Lobe,5.6,I,66,Female
+Oligodendroglioma,Temporal Lobe,5.71,IV,59,Female
+Glioblastoma,Cerebellum,5.59,IV,11,Female
+Ependymoma,Brainstem,7.18,I,87,Male
+Astrocytoma,Frontal Lobe,0.97,IV,31,Female
+Astrocytoma,Frontal Lobe,7.49,III,29,Female
+Ependymoma,Brainstem,8.65,III,49,Male
+Oligodendroglioma,Cerebellum,9.55,IV,5,Male
+Astrocytoma,Frontal Lobe,1.7,III,4,Male
+Oligodendroglioma,Frontal Lobe,8.23,III,55,Male
+Astrocytoma,Frontal Lobe,0.88,IV,1,Male
+Astrocytoma,Occipital Lobe,4.16,II,1,Female
+Meningioma,Occipital Lobe,9.05,I,9,Female
+Astrocytoma,Parietal Lobe,9.14,III,22,Female
+Glioblastoma,Temporal Lobe,8.57,II,22,Male
+Ependymoma,Brainstem,7.14,III,28,Male
+Ependymoma,Brainstem,2.8,III,24,Male
+Oligodendroglioma,Brainstem,1.38,I,70,Female
+Astrocytoma,Parietal Lobe,9.67,III,81,Female
+Glioblastoma,Occipital Lobe,5.27,I,69,Male
+Oligodendroglioma,Cerebellum,7.48,I,89,Female
+Meningioma,Cerebellum,0.7,I,9,Male
+Oligodendroglioma,Parietal Lobe,2.59,II,39,Female
+Oligodendroglioma,Cerebellum,5.24,IV,63,Female
+Astrocytoma,Brainstem,9.97,II,9,Female
+Meningioma,Temporal Lobe,9.64,IV,78,Male
+Oligodendroglioma,Frontal Lobe,8.29,IV,41,Female
+Glioblastoma,Occipital Lobe,2.96,I,12,Female
+Glioblastoma,Occipital Lobe,9.25,III,43,Male
+Ependymoma,Parietal Lobe,5.89,I,60,Female
+Meningioma,Occipital Lobe,8.89,III,51,Male
+Meningioma,Brainstem,6.28,IV,7,Male
+Ependymoma,Cerebellum,5.76,I,75,Male
+Oligodendroglioma,Brainstem,5.21,III,63,Male
+Meningioma,Parietal Lobe,8.1,II,63,Male
+Glioblastoma,Brainstem,1.7,III,35,Female
+Glioblastoma,Cerebellum,0.58,I,49,Male
+Astrocytoma,Temporal Lobe,7.56,II,22,Male
+Meningioma,Parietal Lobe,5.6,III,40,Male
+Oligodendroglioma,Temporal Lobe,8.72,III,36,Male
+Ependymoma,Frontal Lobe,6.42,III,16,Female
+Ependymoma,Temporal Lobe,5.5,III,78,Male
+Oligodendroglioma,Frontal Lobe,5.79,III,73,Female
+Astrocytoma,Frontal Lobe,3.2,II,59,Male
+Ependymoma,Temporal Lobe,0.58,IV,24,Female
+Meningioma,Parietal Lobe,0.93,II,40,Male
+Astrocytoma,Cerebellum,3.13,II,82,Male
+Meningioma,Brainstem,3.34,II,62,Female
+Glioblastoma,Brainstem,9.98,IV,62,Male
+Astrocytoma,Cerebellum,8.3,I,61,Female
+Ependymoma,Frontal Lobe,8.23,IV,71,Male
+Astrocytoma,Frontal Lobe,5.02,II,13,Female
+Astrocytoma,Parietal Lobe,8.28,III,79,Male
+Astrocytoma,Occipital Lobe,2.11,III,16,Male
+Astrocytoma,Temporal Lobe,7.72,II,73,Female
+Meningioma,Frontal Lobe,7.25,III,41,Male
+Glioblastoma,Brainstem,7.57,II,76,Male
+Oligodendroglioma,Parietal Lobe,5.8,III,47,Male
+Astrocytoma,Temporal Lobe,9.4,IV,48,Male
+Ependymoma,Parietal Lobe,1.45,I,55,Male
+Astrocytoma,Temporal Lobe,5.76,I,7,Male
+Ependymoma,Temporal Lobe,4.86,IV,52,Female
+Meningioma,Cerebellum,0.63,IV,84,Female
+Ependymoma,Frontal Lobe,5.7,II,39,Female
+Oligodendroglioma,Parietal Lobe,1.2,II,10,Male
+Glioblastoma,Parietal Lobe,5.6,II,25,Female
+Ependymoma,Cerebellum,5.56,III,5,Male
+Ependymoma,Brainstem,0.68,II,5,Male
+Glioblastoma,Brainstem,5.38,IV,78,Male
+Oligodendroglioma,Frontal Lobe,6.96,I,87,Male
+Astrocytoma,Frontal Lobe,2.11,III,61,Female
+Ependymoma,Occipital Lobe,1.1,II,64,Male
+Glioblastoma,Cerebellum,0.91,III,27,Female
+Meningioma,Brainstem,6.11,III,17,Male
+Glioblastoma,Temporal Lobe,8.79,II,1,Female
+Meningioma,Parietal Lobe,1.67,III,39,Female
+Oligodendroglioma,Frontal Lobe,2.43,I,10,Female
+Astrocytoma,Parietal Lobe,4.99,IV,33,Female
+Glioblastoma,Parietal Lobe,1.92,IV,20,Female
+Ependymoma,Occipital Lobe,0.6,I,74,Female
+Oligodendroglioma,Brainstem,1.62,III,33,Male
+Glioblastoma,Frontal Lobe,1.14,II,13,Female
+Ependymoma,Parietal Lobe,4.28,III,72,Male
+Glioblastoma,Frontal Lobe,9.97,I,6,Female
+Meningioma,Temporal Lobe,0.94,III,74,Male
+Glioblastoma,Occipital Lobe,4.69,IV,54,Female
+Glioblastoma,Temporal Lobe,9.35,III,71,Female
+Glioblastoma,Frontal Lobe,7.83,I,75,Male
+Oligodendroglioma,Frontal Lobe,4.52,IV,89,Female
+Glioblastoma,Brainstem,9.35,III,23,Female
+Ependymoma,Parietal Lobe,9.53,III,74,Female
+Meningioma,Parietal Lobe,9.83,IV,87,Male
+Meningioma,Temporal Lobe,0.87,II,83,Female
+Glioblastoma,Occipital Lobe,7.71,IV,52,Male
+Oligodendroglioma,Cerebellum,9.72,II,31,Female
+Oligodendroglioma,Parietal Lobe,4.92,I,34,Female
+Ependymoma,Brainstem,3.97,I,36,Male
+Glioblastoma,Temporal Lobe,1.7,IV,33,Female
+Meningioma,Temporal Lobe,1.19,IV,5,Female
+Oligodendroglioma,Cerebellum,7.76,I,27,Male
+Glioblastoma,Brainstem,7.4,II,5,Female
+Oligodendroglioma,Occipital Lobe,2.17,I,54,Male
+Oligodendroglioma,Brainstem,6.01,IV,22,Male
+Meningioma,Occipital Lobe,3.36,I,3,Male
+Astrocytoma,Brainstem,9.75,IV,28,Female
+Ependymoma,Brainstem,7.59,IV,27,Male
+Ependymoma,Frontal Lobe,2.61,I,84,Male
+Meningioma,Temporal Lobe,6.38,II,70,Female
+Oligodendroglioma,Brainstem,1.47,III,65,Male
+Glioblastoma,Cerebellum,6.76,I,14,Female
+Oligodendroglioma,Brainstem,0.64,III,54,Female
+Meningioma,Parietal Lobe,3.25,I,24,Female
+Ependymoma,Temporal Lobe,8.78,III,74,Female
+Oligodendroglioma,Parietal Lobe,4.12,II,49,Male
+Ependymoma,Temporal Lobe,7.69,II,25,Male
+Glioblastoma,Parietal Lobe,5.83,I,30,Male
+Ependymoma,Brainstem,2.06,IV,43,Male
+Ependymoma,Brainstem,3.34,III,78,Male
+Astrocytoma,Frontal Lobe,1.91,IV,53,Female
+Astrocytoma,Cerebellum,3.41,IV,74,Male
+Astrocytoma,Parietal Lobe,1.61,IV,74,Male
+Ependymoma,Occipital Lobe,1.97,II,75,Male
+Meningioma,Frontal Lobe,1.91,I,39,Female
+Ependymoma,Parietal Lobe,6.65,I,21,Female
+Meningioma,Parietal Lobe,5.83,II,53,Male
+Meningioma,Frontal Lobe,3.33,II,56,Female
+Astrocytoma,Brainstem,1.79,I,50,Male
+Oligodendroglioma,Parietal Lobe,3.33,IV,88,Male
+Glioblastoma,Brainstem,2.08,III,34,Female
+Astrocytoma,Frontal Lobe,3.84,III,57,Female
+Astrocytoma,Brainstem,7.03,III,38,Male
+Oligodendroglioma,Temporal Lobe,6.81,IV,40,Male
+Glioblastoma,Occipital Lobe,3.97,I,13,Female
+Ependymoma,Parietal Lobe,7.76,II,36,Male
+Ependymoma,Cerebellum,3.75,I,36,Female
+Astrocytoma,Occipital Lobe,3.1,IV,65,Male
+Glioblastoma,Brainstem,4.26,II,66,Female
+Astrocytoma,Parietal Lobe,1.0,IV,10,Male
+Meningioma,Brainstem,8.89,III,87,Male
+Astrocytoma,Temporal Lobe,8.3,III,82,Female
+Astrocytoma,Frontal Lobe,4.79,IV,71,Male
+Ependymoma,Parietal Lobe,2.51,II,74,Male
+Ependymoma,Temporal Lobe,6.96,II,18,Female
+Ependymoma,Temporal Lobe,7.33,I,10,Male
+Meningioma,Parietal Lobe,1.38,III,75,Male
+Ependymoma,Brainstem,7.68,I,22,Male
+Glioblastoma,Cerebellum,9.91,I,78,Female
+Oligodendroglioma,Temporal Lobe,0.77,IV,63,Female
+Glioblastoma,Occipital Lobe,2.83,IV,22,Female
+Glioblastoma,Temporal Lobe,0.98,I,23,Male
+Ependymoma,Cerebellum,8.78,III,73,Male
+Oligodendroglioma,Brainstem,5.8,IV,84,Male
+Oligodendroglioma,Brainstem,1.0,I,1,Male
+Oligodendroglioma,Occipital Lobe,8.95,I,32,Female
+Meningioma,Temporal Lobe,7.48,I,58,Male
+Ependymoma,Brainstem,5.7,I,36,Male
+Oligodendroglioma,Cerebellum,7.78,I,7,Male
+Meningioma,Parietal Lobe,6.11,I,47,Female
+Astrocytoma,Frontal Lobe,0.55,IV,69,Male
+Astrocytoma,Frontal Lobe,4.16,III,5,Male
+Meningioma,Frontal Lobe,8.32,I,40,Male
+Meningioma,Temporal Lobe,8.75,II,16,Male
+Ependymoma,Occipital Lobe,4.78,IV,57,Male
+Ependymoma,Brainstem,1.12,IV,80,Female
+Astrocytoma,Parietal Lobe,8.53,I,82,Male
+Oligodendroglioma,Cerebellum,9.7,IV,31,Male
+Astrocytoma,Parietal Lobe,9.62,I,2,Male
+Oligodendroglioma,Cerebellum,9.77,III,23,Male
+Oligodendroglioma,Temporal Lobe,2.8,III,28,Male
+Ependymoma,Frontal Lobe,4.94,IV,60,Male
+Glioblastoma,Temporal Lobe,5.24,IV,7,Male
+Glioblastoma,Occipital Lobe,9.77,II,65,Male
+Meningioma,Occipital Lobe,2.96,IV,58,Male
+Ependymoma,Cerebellum,0.85,II,8,Male
+Oligodendroglioma,Brainstem,8.38,III,71,Female
+Glioblastoma,Brainstem,5.7,III,42,Female
+Oligodendroglioma,Cerebellum,0.6,I,32,Female
+Glioblastoma,Occipital Lobe,5.6,III,30,Female
+Glioblastoma,Occipital Lobe,7.13,II,52,Male
+Glioblastoma,Occipital Lobe,9.62,IV,68,Female
+Ependymoma,Temporal Lobe,7.37,I,54,Female
+Astrocytoma,Occipital Lobe,3.58,II,19,Male
+Oligodendroglioma,Parietal Lobe,9.81,IV,4,Female
+Ependymoma,Frontal Lobe,4.26,I,33,Female
+Ependymoma,Occipital Lobe,5.8,III,53,Male
+Ependymoma,Cerebellum,6.84,II,45,Male
+Ependymoma,Frontal Lobe,8.89,IV,24,Male
+Ependymoma,Temporal Lobe,8.78,I,63,Female
+Meningioma,Cerebellum,2.12,I,87,Female
+Oligodendroglioma,Frontal Lobe,4.98,III,76,Male
+Ependymoma,Cerebellum,0.98,IV,59,Male
+Oligodendroglioma,Temporal Lobe,7.66,III,52,Female
+Meningioma,Parietal Lobe,3.49,III,73,Male
+Meningioma,Temporal Lobe,8.48,IV,40,Female
+Oligodendroglioma,Temporal Lobe,8.31,IV,76,Male
+Glioblastoma,Cerebellum,5.83,IV,73,Male
+Astrocytoma,Brainstem,7.49,II,16,Female
+Glioblastoma,Occipital Lobe,5.57,IV,78,Male
+Glioblastoma,Occipital Lobe,7.33,I,63,Male
+Glioblastoma,Parietal Lobe,6.71,III,50,Male
+Ependymoma,Parietal Lobe,1.39,II,24,Female
+Meningioma,Occipital Lobe,3.34,IV,42,Male
+Glioblastoma,Brainstem,3.04,II,8,Male
+Meningioma,Occipital Lobe,7.03,IV,84,Male
+Oligodendroglioma,Brainstem,9.04,II,58,Male
+Astrocytoma,Parietal Lobe,9.97,III,39,Male
+Oligodendroglioma,Frontal Lobe,9.04,III,43,Male
+Oligodendroglioma,Cerebellum,4.03,I,25,Female
+Ependymoma,Parietal Lobe,2.11,I,74,Female
+Astrocytoma,Parietal Lobe,5.0,IV,11,Male
+Oligodendroglioma,Temporal Lobe,2.23,III,4,Female
+Oligodendroglioma,Temporal Lobe,4.58,II,20,Female
+Astrocytoma,Temporal Lobe,1.14,II,75,Male
+Astrocytoma,Cerebellum,4.63,II,43,Female
+Oligodendroglioma,Temporal Lobe,9.05,I,34,Female
+Astrocytoma,Brainstem,1.57,II,33,Female
+Oligodendroglioma,Occipital Lobe,9.97,I,42,Female
+Oligodendroglioma,Frontal Lobe,3.49,I,66,Female
+Ependymoma,Parietal Lobe,0.73,IV,77,Female
+Glioblastoma,Brainstem,5.54,II,50,Female
+Oligodendroglioma,Frontal Lobe,7.59,II,66,Female
+Meningioma,Brainstem,4.32,III,5,Male
+Glioblastoma,Brainstem,4.94,IV,4,Male
+Glioblastoma,Parietal Lobe,8.75,III,29,Female
+Glioblastoma,Occipital Lobe,1.2,IV,79,Female
+Ependymoma,Temporal Lobe,5.06,II,88,Male
+Oligodendroglioma,Cerebellum,4.29,I,87,Female
+Ependymoma,Occipital Lobe,4.58,I,79,Female
+Oligodendroglioma,Cerebellum,2.3,I,25,Male
+Ependymoma,Parietal Lobe,4.45,I,22,Male
+Ependymoma,Parietal Lobe,7.94,I,43,Male
+Meningioma,Parietal Lobe,1.16,III,15,Female
+Ependymoma,Frontal Lobe,9.98,IV,5,Female
+Astrocytoma,Cerebellum,3.27,II,75,Male
+Meningioma,Occipital Lobe,9.1,III,28,Male
+Ependymoma,Occipital Lobe,2.85,IV,13,Female
+Glioblastoma,Brainstem,4.86,I,46,Male
+Astrocytoma,Brainstem,8.89,IV,34,Female
+Astrocytoma,Brainstem,1.2,IV,64,Female
+Astrocytoma,Parietal Lobe,5.18,I,53,Male
+Meningioma,Occipital Lobe,2.34,I,26,Male
+Ependymoma,Cerebellum,5.7,I,58,Female
+Ependymoma,Parietal Lobe,9.35,II,16,Male
+Glioblastoma,Frontal Lobe,9.96,I,63,Male
+Glioblastoma,Brainstem,6.3,II,50,Male
+Astrocytoma,Parietal Lobe,2.11,I,45,Male
+Glioblastoma,Parietal Lobe,5.54,II,72,Female
+Meningioma,Frontal Lobe,0.94,IV,27,Female
+Ependymoma,Temporal Lobe,1.91,III,13,Female
+Astrocytoma,Occipital Lobe,6.83,IV,13,Female
+Glioblastoma,Cerebellum,4.36,IV,63,Male
+Meningioma,Temporal Lobe,9.1,I,89,Male
+Meningioma,Brainstem,1.1,II,18,Female
+Glioblastoma,Parietal Lobe,0.94,III,24,Female
+Ependymoma,Frontal Lobe,1.14,I,69,Male
+Glioblastoma,Frontal Lobe,9.74,I,24,Female
+Astrocytoma,Occipital Lobe,6.61,I,48,Female
+Glioblastoma,Temporal Lobe,3.56,IV,38,Male
+Meningioma,Occipital Lobe,5.96,II,77,Female
+Glioblastoma,Parietal Lobe,8.3,II,11,Male
+Ependymoma,Occipital Lobe,8.81,III,88,Male
+Oligodendroglioma,Cerebellum,4.58,II,32,Female
+Glioblastoma,Frontal Lobe,2.83,II,48,Male
+Ependymoma,Frontal Lobe,1.6,I,5,Female
+Ependymoma,Brainstem,7.03,I,22,Male
+Meningioma,Brainstem,5.06,IV,2,Female
+Ependymoma,Parietal Lobe,8.75,I,29,Female
+Ependymoma,Cerebellum,1.19,I,29,Female
+Ependymoma,Temporal Lobe,7.77,I,9,Male
+Ependymoma,Occipital Lobe,2.69,I,2,Male
+Astrocytoma,Parietal Lobe,4.04,IV,1,Female
+Astrocytoma,Brainstem,3.34,I,18,Male
+Meningioma,Occipital Lobe,5.27,III,36,Female
+Glioblastoma,Brainstem,8.62,III,50,Female
+Ependymoma,Occipital Lobe,1.54,III,81,Male
+Glioblastoma,Temporal Lobe,5.29,III,31,Female
+Glioblastoma,Parietal Lobe,2.83,I,18,Male
+Meningioma,Occipital Lobe,7.74,III,47,Female
+Ependymoma,Cerebellum,7.98,I,65,Male
+Ependymoma,Frontal Lobe,6.95,IV,57,Female
+Oligodendroglioma,Cerebellum,7.77,III,38,Female
+Glioblastoma,Cerebellum,6.58,II,60,Male
+Glioblastoma,Frontal Lobe,6.42,III,63,Female
+Astrocytoma,Cerebellum,4.02,III,16,Female
+Oligodendroglioma,Occipital Lobe,6.07,I,83,Male
+Astrocytoma,Occipital Lobe,0.89,III,77,Female
+Astrocytoma,Occipital Lobe,2.66,II,51,Male
+Astrocytoma,Frontal Lobe,2.78,I,7,Female
+Meningioma,Cerebellum,8.0,I,15,Male
+Meningioma,Frontal Lobe,2.7,IV,63,Female
+Astrocytoma,Occipital Lobe,7.4,IV,45,Female
+Oligodendroglioma,Cerebellum,3.06,III,5,Female
+Glioblastoma,Cerebellum,7.93,IV,69,Male
+Oligodendroglioma,Brainstem,8.74,IV,4,Male
+Ependymoma,Brainstem,4.02,IV,74,Male
+Meningioma,Temporal Lobe,8.89,I,69,Male
+Glioblastoma,Parietal Lobe,6.34,I,38,Female
+Glioblastoma,Brainstem,6.25,I,26,Female
+Ependymoma,Frontal Lobe,6.38,IV,38,Male
+Ependymoma,Brainstem,5.21,I,35,Male
+Astrocytoma,Temporal Lobe,7.4,IV,54,Male
+Meningioma,Cerebellum,9.12,I,48,Female
+Meningioma,Temporal Lobe,3.63,I,29,Male
+Oligodendroglioma,Cerebellum,5.59,II,21,Male
+Astrocytoma,Cerebellum,6.06,III,57,Female
+Astrocytoma,Parietal Lobe,9.72,IV,66,Female
+Astrocytoma,Brainstem,7.16,II,14,Male
+Astrocytoma,Frontal Lobe,3.96,I,75,Female
+Meningioma,Frontal Lobe,9.03,IV,36,Male
+Meningioma,Occipital Lobe,8.79,I,58,Female
+Astrocytoma,Cerebellum,3.96,III,47,Male
+Oligodendroglioma,Frontal Lobe,7.64,II,69,Male
+Glioblastoma,Parietal Lobe,6.44,III,19,Male
+Glioblastoma,Cerebellum,6.76,II,40,Male
+Oligodendroglioma,Parietal Lobe,3.05,I,9,Female
+Astrocytoma,Frontal Lobe,1.9,III,26,Female
+Meningioma,Frontal Lobe,9.83,III,58,Female
+Glioblastoma,Occipital Lobe,2.61,I,43,Female
+Ependymoma,Frontal Lobe,9.65,III,50,Male
+Ependymoma,Cerebellum,9.49,IV,14,Male
+Oligodendroglioma,Cerebellum,5.24,II,80,Female
+Astrocytoma,Cerebellum,2.1,II,80,Female
+Glioblastoma,Occipital Lobe,6.92,II,78,Female
+Astrocytoma,Occipital Lobe,3.7,IV,53,Female
+Glioblastoma,Frontal Lobe,8.99,II,6,Female
+Oligodendroglioma,Temporal Lobe,2.96,I,5,Male
+Oligodendroglioma,Temporal Lobe,1.82,III,69,Male
+Ependymoma,Occipital Lobe,4.8,IV,70,Male
+Astrocytoma,Frontal Lobe,6.5,II,67,Female
+Ependymoma,Temporal Lobe,4.68,I,15,Female
+Astrocytoma,Frontal Lobe,4.68,III,38,Female
+Ependymoma,Frontal Lobe,3.0,III,35,Female
+Meningioma,Frontal Lobe,2.63,IV,18,Male
+Meningioma,Brainstem,6.82,IV,9,Male
+Meningioma,Cerebellum,3.14,IV,15,Female
+Meningioma,Frontal Lobe,4.31,I,50,Male
+Glioblastoma,Brainstem,2.33,I,57,Male
+Meningioma,Occipital Lobe,9.54,IV,33,Female
+Oligodendroglioma,Temporal Lobe,7.41,II,78,Female
+Oligodendroglioma,Cerebellum,8.78,III,71,Female
+Glioblastoma,Temporal Lobe,4.68,III,38,Female
+Meningioma,Cerebellum,5.88,I,2,Female
+Meningioma,Temporal Lobe,2.1,III,17,Female
+Meningioma,Cerebellum,3.42,II,47,Male
+Ependymoma,Temporal Lobe,0.91,III,58,Male
+Astrocytoma,Temporal Lobe,3.84,I,14,Female
+Ependymoma,Temporal Lobe,4.75,I,62,Male
+Astrocytoma,Temporal Lobe,5.54,II,64,Female
+Meningioma,Occipital Lobe,6.48,II,55,Female
+Meningioma,Frontal Lobe,8.2,III,53,Female
+Ependymoma,Parietal Lobe,3.74,III,20,Female
+Ependymoma,Brainstem,2.85,I,54,Male
+Astrocytoma,Parietal Lobe,1.75,II,45,Female
+Oligodendroglioma,Parietal Lobe,4.68,II,66,Male
+Astrocytoma,Cerebellum,3.56,II,12,Female
+Ependymoma,Frontal Lobe,0.68,III,39,Female
+Ependymoma,Cerebellum,9.13,II,62,Female
+Glioblastoma,Frontal Lobe,4.78,I,33,Male
+Ependymoma,Frontal Lobe,5.8,I,25,Female
+Glioblastoma,Temporal Lobe,9.62,III,62,Female
+Oligodendroglioma,Occipital Lobe,2.35,IV,63,Female
+Astrocytoma,Temporal Lobe,9.24,III,21,Male
+Astrocytoma,Occipital Lobe,3.02,IV,72,Male
+Glioblastoma,Cerebellum,8.36,II,34,Male
+Astrocytoma,Occipital Lobe,5.05,III,12,Female
+Ependymoma,Cerebellum,7.37,I,41,Male
+Meningioma,Parietal Lobe,2.87,II,77,Female
+Glioblastoma,Parietal Lobe,2.07,I,16,Male
+Astrocytoma,Occipital Lobe,3.08,II,44,Male
+Glioblastoma,Occipital Lobe,9.78,III,69,Female
+Glioblastoma,Cerebellum,2.61,IV,30,Male
+Meningioma,Temporal Lobe,4.03,II,40,Female
+Ependymoma,Cerebellum,0.55,IV,4,Female
+Glioblastoma,Temporal Lobe,7.62,II,52,Male
+Astrocytoma,Parietal Lobe,1.21,I,70,Female
+Oligodendroglioma,Frontal Lobe,4.46,I,53,Female
+Glioblastoma,Occipital Lobe,6.34,II,16,Male
+Glioblastoma,Temporal Lobe,0.93,IV,3,Male
+Meningioma,Cerebellum,9.88,III,10,Female
+Ependymoma,Parietal Lobe,4.69,III,36,Male
+Oligodendroglioma,Temporal Lobe,2.54,I,57,Female
+Astrocytoma,Cerebellum,6.81,III,24,Female
+Oligodendroglioma,Occipital Lobe,3.1,I,14,Male
+Astrocytoma,Occipital Lobe,9.79,III,64,Male
+Ependymoma,Brainstem,0.77,II,26,Male
+Astrocytoma,Frontal Lobe,2.88,I,25,Male
+Meningioma,Brainstem,2.57,I,75,Female
+Meningioma,Parietal Lobe,0.87,II,20,Female
+Meningioma,Temporal Lobe,6.39,I,56,Male
+Meningioma,Parietal Lobe,3.63,III,28,Male
+Oligodendroglioma,Cerebellum,8.07,III,24,Female
+Ependymoma,Occipital Lobe,8.99,I,30,Female
+Astrocytoma,Brainstem,8.29,III,73,Female
+Astrocytoma,Brainstem,6.92,IV,18,Female
+Meningioma,Brainstem,7.7,I,20,Male
+Meningioma,Parietal Lobe,9.77,II,10,Female
+Glioblastoma,Occipital Lobe,7.4,IV,55,Female
+Ependymoma,Temporal Lobe,3.34,I,46,Male
+Oligodendroglioma,Cerebellum,8.76,II,69,Female
+Astrocytoma,Temporal Lobe,7.14,III,58,Female
+Glioblastoma,Parietal Lobe,5.68,II,23,Male
+Glioblastoma,Cerebellum,7.4,IV,52,Male
+Astrocytoma,Brainstem,2.76,III,27,Male
+Oligodendroglioma,Frontal Lobe,8.92,I,4,Female
+Glioblastoma,Parietal Lobe,6.3,III,47,Female
+Glioblastoma,Parietal Lobe,8.11,I,67,Male
+Ependymoma,Occipital Lobe,9.68,I,62,Male
+Oligodendroglioma,Temporal Lobe,3.46,II,26,Female
+Glioblastoma,Parietal Lobe,5.43,II,10,Male
+Oligodendroglioma,Parietal Lobe,8.76,II,25,Male
+Astrocytoma,Brainstem,3.97,IV,58,Male
+Meningioma,Brainstem,7.65,IV,65,Female
+Glioblastoma,Cerebellum,4.81,II,47,Female
+Ependymoma,Frontal Lobe,4.26,IV,86,Female
+Astrocytoma,Occipital Lobe,5.58,III,20,Female
+Oligodendroglioma,Frontal Lobe,0.94,III,31,Female
+Astrocytoma,Cerebellum,9.36,IV,6,Female
+Glioblastoma,Brainstem,8.39,IV,49,Male
+Oligodendroglioma,Temporal Lobe,5.39,III,87,Female
+Meningioma,Brainstem,4.99,I,86,Female
+Astrocytoma,Occipital Lobe,9.22,III,51,Male
+Glioblastoma,Brainstem,6.13,III,35,Female
+Ependymoma,Occipital Lobe,7.9,IV,16,Female
+Oligodendroglioma,Occipital Lobe,0.68,III,11,Male
+Astrocytoma,Occipital Lobe,5.27,IV,43,Male
+Astrocytoma,Cerebellum,5.9,IV,43,Male
+Meningioma,Occipital Lobe,5.99,II,78,Female
+Meningioma,Occipital Lobe,9.45,III,80,Male
+Ependymoma,Temporal Lobe,2.66,I,17,Female
+Ependymoma,Frontal Lobe,6.68,II,21,Female
+Glioblastoma,Parietal Lobe,5.17,IV,65,Female
+Glioblastoma,Frontal Lobe,1.57,IV,84,Female
+Ependymoma,Occipital Lobe,3.68,I,23,Male
+Ependymoma,Temporal Lobe,7.77,IV,7,Male
+Oligodendroglioma,Brainstem,4.81,III,20,Female
+Meningioma,Temporal Lobe,5.54,II,36,Male
+Glioblastoma,Occipital Lobe,2.74,IV,55,Female
+Meningioma,Temporal Lobe,5.26,IV,89,Female
+Meningioma,Temporal Lobe,8.3,I,75,Female
+Ependymoma,Occipital Lobe,4.47,III,37,Male
+Oligodendroglioma,Cerebellum,9.69,IV,23,Female
+Astrocytoma,Temporal Lobe,8.79,I,31,Female
+Oligodendroglioma,Parietal Lobe,3.4,IV,42,Male
+Oligodendroglioma,Parietal Lobe,7.98,I,87,Male
+Meningioma,Temporal Lobe,1.61,I,71,Male
+Oligodendroglioma,Cerebellum,4.32,III,85,Male
+Glioblastoma,Brainstem,7.48,IV,36,Female
+Meningioma,Occipital Lobe,9.24,III,65,Male
+Glioblastoma,Parietal Lobe,4.46,I,87,Female
+Astrocytoma,Brainstem,6.81,II,22,Male
+Meningioma,Temporal Lobe,8.95,IV,87,Male
+Astrocytoma,Brainstem,2.42,II,11,Male
+Meningioma,Frontal Lobe,2.65,IV,59,Male
+Ependymoma,Parietal Lobe,8.23,III,55,Male
+Oligodendroglioma,Temporal Lobe,1.76,III,27,Male
+Ependymoma,Occipital Lobe,9.62,III,25,Female
+Astrocytoma,Cerebellum,4.63,III,83,Male
+Oligodendroglioma,Temporal Lobe,7.36,III,35,Male
+Meningioma,Occipital Lobe,5.47,II,18,Male
+Oligodendroglioma,Cerebellum,0.77,III,81,Male
+Glioblastoma,Cerebellum,0.96,I,13,Female
+Oligodendroglioma,Temporal Lobe,6.5,I,32,Male
+Glioblastoma,Brainstem,2.94,II,61,Male
+Oligodendroglioma,Brainstem,2.25,IV,29,Male
+Glioblastoma,Cerebellum,5.6,I,53,Male
+Astrocytoma,Brainstem,9.08,IV,60,Female
+Ependymoma,Frontal Lobe,3.82,II,4,Male
+Meningioma,Cerebellum,3.78,IV,14,Female
+Oligodendroglioma,Cerebellum,7.55,IV,16,Male
+Ependymoma,Occipital Lobe,2.24,IV,64,Female
+Meningioma,Brainstem,1.76,IV,46,Female
+Meningioma,Cerebellum,9.26,II,19,Male
+Glioblastoma,Frontal Lobe,0.6,I,48,Male
+Astrocytoma,Occipital Lobe,0.9,III,40,Female
+Astrocytoma,Temporal Lobe,6.5,IV,55,Female
+Ependymoma,Cerebellum,1.25,I,61,Male
+Astrocytoma,Frontal Lobe,9.83,I,63,Female
+Oligodendroglioma,Parietal Lobe,6.9,II,72,Female
+Astrocytoma,Frontal Lobe,8.79,I,51,Female
+Ependymoma,Frontal Lobe,8.62,II,75,Male
+Astrocytoma,Occipital Lobe,1.91,IV,45,Female
+Oligodendroglioma,Temporal Lobe,7.36,IV,52,Female
+Glioblastoma,Parietal Lobe,7.74,III,80,Female
+Ependymoma,Brainstem,8.0,III,40,Male
+Glioblastoma,Brainstem,3.13,III,55,Male
+Glioblastoma,Frontal Lobe,7.74,I,42,Female
+Glioblastoma,Occipital Lobe,0.6,IV,57,Male
+Meningioma,Occipital Lobe,1.87,II,5,Female
+Meningioma,Brainstem,3.74,III,51,Male
+Glioblastoma,Parietal Lobe,7.33,II,10,Male
+Ependymoma,Temporal Lobe,8.13,II,46,Female
+Oligodendroglioma,Parietal Lobe,9.78,III,75,Male
+Oligodendroglioma,Cerebellum,7.78,IV,14,Male
+Astrocytoma,Cerebellum,6.87,III,27,Male
+Ependymoma,Temporal Lobe,0.58,II,23,Female
+Meningioma,Brainstem,4.61,III,17,Male
+Glioblastoma,Temporal Lobe,1.03,II,32,Male
+Astrocytoma,Occipital Lobe,7.48,II,49,Female
+Oligodendroglioma,Cerebellum,2.32,III,4,Male
+Meningioma,Frontal Lobe,4.19,I,18,Male
+Meningioma,Frontal Lobe,9.92,III,80,Male
+Glioblastoma,Brainstem,1.91,I,66,Male
+Oligodendroglioma,Occipital Lobe,6.65,II,50,Male
+Ependymoma,Parietal Lobe,2.22,II,46,Female
+Meningioma,Occipital Lobe,9.84,I,83,Female
+Glioblastoma,Frontal Lobe,0.6,II,56,Male
+Ependymoma,Frontal Lobe,2.33,I,46,Male
+Oligodendroglioma,Cerebellum,6.44,I,46,Male
+Meningioma,Occipital Lobe,9.04,II,62,Female
+Ependymoma,Occipital Lobe,4.17,IV,68,Female
+Ependymoma,Frontal Lobe,1.79,I,37,Male
+Ependymoma,Parietal Lobe,1.38,III,59,Male
+Meningioma,Brainstem,4.81,III,31,Female
+Meningioma,Brainstem,7.17,II,69,Male
+Astrocytoma,Occipital Lobe,9.91,IV,4,Female
+Oligodendroglioma,Brainstem,3.2,II,14,Female
+Glioblastoma,Frontal Lobe,7.36,IV,34,Male
+Ependymoma,Frontal Lobe,2.05,I,62,Female
+Astrocytoma,Occipital Lobe,7.36,I,31,Male
+Glioblastoma,Occipital Lobe,2.74,I,10,Male
+Astrocytoma,Cerebellum,4.78,I,5,Male
+Meningioma,Occipital Lobe,2.65,III,27,Male
+Ependymoma,Parietal Lobe,3.74,III,39,Male
+Glioblastoma,Brainstem,6.46,II,52,Male
+Glioblastoma,Occipital Lobe,0.88,IV,19,Female
+Glioblastoma,Temporal Lobe,7.49,I,67,Female
+Glioblastoma,Cerebellum,8.21,I,75,Female
+Glioblastoma,Temporal Lobe,8.21,IV,1,Female
+Astrocytoma,Frontal Lobe,6.65,IV,80,Male
+Ependymoma,Brainstem,0.94,II,22,Female
+Meningioma,Occipital Lobe,8.21,IV,59,Female
+Meningioma,Temporal Lobe,2.78,I,89,Female
+Meningioma,Brainstem,3.51,I,17,Male
+Meningioma,Frontal Lobe,2.83,I,45,Female
+Astrocytoma,Parietal Lobe,8.62,I,58,Male
+Oligodendroglioma,Cerebellum,1.31,I,5,Female
+Ependymoma,Brainstem,8.81,II,8,Male
+Glioblastoma,Brainstem,4.54,I,26,Male
+Oligodendroglioma,Parietal Lobe,1.08,II,59,Female
+Meningioma,Brainstem,4.43,I,24,Male
+Oligodendroglioma,Frontal Lobe,2.94,III,59,Male
+Ependymoma,Frontal Lobe,6.45,III,10,Female
+Glioblastoma,Parietal Lobe,7.72,III,2,Female
+Glioblastoma,Cerebellum,1.19,III,79,Female
+Ependymoma,Occipital Lobe,0.89,II,35,Male
+Ependymoma,Temporal Lobe,9.64,II,88,Male
+Meningioma,Occipital Lobe,0.94,IV,12,Male
+Glioblastoma,Brainstem,6.35,I,63,Female
+Oligodendroglioma,Temporal Lobe,8.25,III,70,Male
+Astrocytoma,Parietal Lobe,4.56,II,71,Male
+Astrocytoma,Parietal Lobe,6.42,I,61,Male
+Ependymoma,Cerebellum,8.78,I,24,Male
+Meningioma,Temporal Lobe,9.13,II,29,Male
+Astrocytoma,Frontal Lobe,8.78,III,14,Male
+Glioblastoma,Temporal Lobe,8.26,IV,58,Male
+Ependymoma,Brainstem,0.68,I,42,Female
+Oligodendroglioma,Frontal Lobe,7.69,IV,70,Female
+Ependymoma,Parietal Lobe,3.1,III,15,Female
+Oligodendroglioma,Temporal Lobe,9.13,III,48,Male
+Ependymoma,Occipital Lobe,6.6,IV,33,Male
+Ependymoma,Cerebellum,9.14,III,84,Female
+Ependymoma,Occipital Lobe,6.6,I,39,Male
+Oligodendroglioma,Cerebellum,5.5,IV,17,Female
+Oligodendroglioma,Brainstem,5.05,III,63,Male
+Ependymoma,Occipital Lobe,3.67,IV,81,Male
+Astrocytoma,Temporal Lobe,4.23,I,31,Female
+Meningioma,Temporal Lobe,8.93,III,48,Female
+Meningioma,Occipital Lobe,2.13,I,57,Female
+Meningioma,Temporal Lobe,1.34,III,83,Female
+Oligodendroglioma,Brainstem,4.87,II,80,Female
+Oligodendroglioma,Frontal Lobe,3.34,III,16,Male
+Astrocytoma,Brainstem,8.24,IV,10,Male
+Meningioma,Cerebellum,1.36,III,43,Male
+Meningioma,Brainstem,3.13,I,28,Female
+Ependymoma,Cerebellum,5.86,I,83,Female
+Oligodendroglioma,Temporal Lobe,5.27,III,28,Female
+Meningioma,Frontal Lobe,6.73,IV,69,Female
+Astrocytoma,Temporal Lobe,1.89,II,67,Female
+Astrocytoma,Parietal Lobe,8.75,IV,59,Female
+Meningioma,Temporal Lobe,3.84,II,16,Male
+Oligodendroglioma,Cerebellum,2.57,I,49,Male
+Astrocytoma,Temporal Lobe,1.03,IV,69,Male
+Ependymoma,Temporal Lobe,4.57,II,30,Male
+Astrocytoma,Frontal Lobe,6.5,III,9,Male
+Glioblastoma,Temporal Lobe,7.69,I,42,Female
+Glioblastoma,Frontal Lobe,3.21,III,87,Female
+Oligodendroglioma,Occipital Lobe,1.1,I,73,Female
+Meningioma,Parietal Lobe,7.36,IV,5,Female
